@@ -1,4 +1,5 @@
 ## Hi there 👋
+![398260c91d4166e3](https://github.com/user-attachments/assets/c0bfbe0d-3ef1-4d67-bf6d-9265d519ecfe)
 
 <!--
 **cheaheekyung/cheaheekyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
